@@ -1,0 +1,1 @@
+app=new window.pubsub;
